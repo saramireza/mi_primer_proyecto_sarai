@@ -1,7 +1,6 @@
-
 # hola.py
-# Autor: Sarai Ramirez
-# Descripción: Script básico que saluda al usuario
+# Versión mejorada
 
 nombre = input("¿Cómo te llamas? ")
-print(f"¡Hola, {nombre}! Bienvenido(a) a tu primer proyecto con Git y Python.")
+print(f"¡Hola, {nombre}! Bienvenido a tu primer proyecto con Git y Python.")
+print(f"Tu nombre tiene {len(nombre)} letras. ")
